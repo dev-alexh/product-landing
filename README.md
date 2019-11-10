@@ -1,5 +1,5 @@
 # product-landing
-Product landing page web project created for the Responsive Web Design Certificate (freeCodeCamp).
+Product landing page web project created for the Responsive Web Design Developer Certificate (freeCodeCamp).
 
 Languages: HTML5, CSS3
 
