@@ -56,10 +56,6 @@ header {
   justify-content: center;
 }
 
-#linkedin {
-  margin: 0px 0px 30px 0px;
-}
-
 a {
   color: black;
 }
@@ -183,10 +179,6 @@ footer {
 
   #header-links {
     flex-direction: row;
-  }
-
-  #linkedin {
-    margin: 0px 50px 0px 0px;
   }
 
   #inner-contents {
