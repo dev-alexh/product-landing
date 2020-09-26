@@ -8,14 +8,15 @@ body {
   background-color: #ceedfd;
 }
 
-header {
-  border-bottom: solid;
-  border-width: thin;
-  border-color: #cccccc;
-}
-
 #header-content {
-  padding: 150px 0px 150px 0px;
+  background-color: white;
+  margin: 90px 5% 10px 5%;
+  padding: 50px 5px 50px 5px;
+  border: solid;
+  border-width: thin;
+  border-radius: 15px;
+  border-color: #cccccc;
+  box-shadow: 2px 2px #d9d9d9;
 }
 
 #header-img {
@@ -174,7 +175,8 @@ footer {
   }
 
   #header-content {
-    padding: 200px 0px 200px 0px;
+    margin: 100px 5% 20px 5%;
+    padding: 100px 0px 100px 0px;
   }
 
   #header-links {
@@ -219,6 +221,23 @@ footer {
 }
 
 @media only screen and (min-width: 1200px) {
+  #header-content {
+    margin: 110px 8% 30px 8%;
+    padding: 150px 0px 150px 0px;
+  }
+
+  #about-me {
+    padding: 5px 40px 25px 40px;
+  }
+
+  #tutor-plans {
+    padding: 5px 40px 25px 40px;
+  }
+
+  #contact-info {
+    padding: 5px 40px 25px 40px;
+  }
+
   #iframe-container {
     height: 300px;
   }
